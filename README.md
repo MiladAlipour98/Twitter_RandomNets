@@ -68,6 +68,9 @@ Upon running the project, the following information and visualizations will be g
 6. Task E: Investigation of the effects of changing the probability parameter (P) to 0.4 on the random network and comparison of resulting clustering coefficients.
 
 ## Conclusion
-This project provides a comprehensive analysis of a real-world network represented by the `Twitter_edges` file and compares it with a random network created using the Erdos-Rényi model. By examining the average local clustering coefficients (C(k)) in terms of the degree (k), we gain insights into the clustering characteristics of both networks. Additionally,
+This project provides a comprehensive analysis of a real-world network represented by the `Twitter_edges` file and compares it with a random network created using the Erdos-Rényi model. By examining the average local clustering coefficients (C(k)) in terms of the degree (k), we gain insights into the clustering characteristics of both networks. Additionally, the effects of changing the probability parameter (P) on the random network's clustering coefficient are explored. The findings contribute to a better understanding of network properties and their relationship to clustering coefficients.
 
- the effects of changing the probability parameter (P) on the random network's clustering coefficient are explored. The findings contribute to a better understanding of network properties and their relationship to clustering coefficients.
+According to the graphs drawn for the real world dataset and the Erdos_Renyi model
+For the real world dataset, it can be seen that the value of Clustering Coefficient is not the same as the random model, and its value is different, it has a lot of dispersion everywhere in the graph, so that in the real world network, it can be seen that the nodes with higher degrees have a lower value of Clustering Coefficient than the nodes with lower degrees, and the higher the degrees The value of Clustering Coefficient decreases.
+However, in the random network diagram obtained from the Erdos_Renyi model, the value of Clustering Coefficient
+For different reasons, almost everywhere in the diagram is the same and it shows that the behavior of our real world network is not the same with this model in the discussion of Clustering Coefficient and it behaves differently.
