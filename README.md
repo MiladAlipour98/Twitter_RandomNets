@@ -38,9 +38,13 @@ Upon running the project, the following information and visualizations will be g
 
 ![2 1](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/60440ea0-670f-4336-adbc-24ecc8eb0fe8)
 
-3. Task B: The random network created using the Erdos-Rényi model with a probability parameter (P) of 0.1.
+3. Task B: The random network created using the Erdos-Rényi model with a probability parameter (P) of 0.1 and 0.4.
+
+Erdos_Renyi Model G(N,P) , P = 0.1
 
 ![0 1](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/16f46f99-c7a0-4072-920e-0dbb24d7701c)
+
+Erdos_Renyi Model G(N,P) , P = 0.4
 
 ![0 4](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/a59a590e-6976-49a0-8ae2-13a1988fc211)
 
