@@ -35,10 +35,25 @@ To run the project and perform the required analysis, follow these steps:
 Upon running the project, the following information and visualizations will be generated:
 
 1. Task A: The constructed network based on the real-world data.
-2. Task B: The random network created using the Erdos-Rényi model with a probability parameter (P) of 0.1.
-3. Task C: Plots of C(k) in terms of k for both the real-world network and the random network.
-4. Task D: Analysis of the differences between the clustering coefficients of the real-world and random networks.
-5. Task E: Investigation of the effects of changing the probability parameter (P) to 0.4 on the random network and comparison of resulting clustering coefficients.
+
+![2 1](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/60440ea0-670f-4336-adbc-24ecc8eb0fe8)
+
+3. Task B: The random network created using the Erdos-Rényi model with a probability parameter (P) of 0.1.
+
+![0 1](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/16f46f99-c7a0-4072-920e-0dbb24d7701c)
+
+![0 4](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/a59a590e-6976-49a0-8ae2-13a1988fc211)
+
+
+4. Task C: Plots of C(k) in terms of k for both the real-world network and the random network.
+
+![2 41](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/9cfd4693-73e8-4689-8d59-ef50aff4af0d)
+
+![2 44](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/d3ac4392-768f-4959-a82a-38c22e75ae39)
+
+
+5. Task D: Analysis of the differences between the clustering coefficients of the real-world and random networks.
+6. Task E: Investigation of the effects of changing the probability parameter (P) to 0.4 on the random network and comparison of resulting clustering coefficients.
 
 ## Conclusion
 This project provides a comprehensive analysis of a real-world network represented by the `Twitter_edges` file and compares it with a random network created using the Erdos-Rényi model. By examining the average local clustering coefficients (C(k)) in terms of the degree (k), we gain insights into the clustering characteristics of both networks. Additionally,
