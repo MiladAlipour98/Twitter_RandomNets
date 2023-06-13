@@ -40,11 +40,11 @@ Upon running the project, the following information and visualizations will be g
 
 3. Task B: The random network created using the Erdos-Rényi model with a probability parameter (P) of 0.1 and 0.4.
 
-# Erdos_Renyi Model G(N,P) , P = 0.1
+### Erdos_Renyi Model G(N,P) , P = 0.1
 
 ![0 1](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/16f46f99-c7a0-4072-920e-0dbb24d7701c)
 
-# Erdos_Renyi Model G(N,P) , P = 0.4
+### Erdos_Renyi Model G(N,P) , P = 0.4
 
 ![0 4](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/a59a590e-6976-49a0-8ae2-13a1988fc211)
 
@@ -52,15 +52,15 @@ Upon running the project, the following information and visualizations will be g
 4. Task C: Plots of C(k) in terms of k for both the real-world network and the random network.
 
    
-# Real World Network  C(k):
+### Real World Network  C(k):
 ![2 3](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/502b9463-6cb5-4c2b-b757-287a1df2384a)
 
 
-# Erdos_Renyi Model C(k) , P = 0.1:
+### Erdos_Renyi Model C(k) , P = 0.1:
 ![2 41](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/9cfd4693-73e8-4689-8d59-ef50aff4af0d)
 
 
-# Erdos_Renyi Model C(k) , P = 0.4:
+### Erdos_Renyi Model C(k) , P = 0.4:
 ![2 44](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/d3ac4392-768f-4959-a82a-38c22e75ae39)
 
 
