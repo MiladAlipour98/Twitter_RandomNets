@@ -47,6 +47,8 @@ Upon running the project, the following information and visualizations will be g
 
 4. Task C: Plots of C(k) in terms of k for both the real-world network and the random network.
 
+![2 3](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/502b9463-6cb5-4c2b-b757-287a1df2384a)
+
 ![2 41](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/9cfd4693-73e8-4689-8d59-ef50aff4af0d)
 
 ![2 44](https://github.com/MiladAlipour98/Twitter_RandomNets/assets/105122009/d3ac4392-768f-4959-a82a-38c22e75ae39)
